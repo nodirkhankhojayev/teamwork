@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    
+}
+header nav{
+    background-color: blueviolet;
+}
+
+header nav .logo img{
+    width: 74px;
+    height: 74px;
+    float: left; 
+    padding: 4px 12px;        
+}
+header nav .logo span{
+    display: block;
+    padding: 5px;
+}
